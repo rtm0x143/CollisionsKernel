@@ -1,0 +1,9 @@
+﻿x64
+Debug
+Release
+*bin
+*obj
+.vs
+.idea
+.config
+/packages
